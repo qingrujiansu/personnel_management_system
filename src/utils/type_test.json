@@ -1,0 +1,34 @@
+{
+    "code": 200,
+    "msg": "查询成功！",
+    "data": [
+        {
+            "id": 1,
+            "username": "18874542936",
+            "userMessage": "表白开发人员！",
+            "authorMessage": null,
+            "date": "2023-04-02 14:09:52"
+        },
+        {
+            "id": 2,
+            "username": "18874542936",
+            "userMessage": "1111！",
+            "authorMessage": null,
+            "date": "2023-04-02 14:10:21"
+        },
+        {
+            "id": 3,
+            "username": "18874542936",
+            "userMessage": "2222",
+            "authorMessage": null,
+            "date": "2023-04-02 14:10:25"
+        },
+        {
+            "id": 4,
+            "username": "18874542936",
+            "userMessage": "3333",
+            "authorMessage": null,
+            "date": "2023-04-02 14:10:29"
+        }
+    ]
+}
